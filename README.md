@@ -2,16 +2,16 @@
 #### I am a Web Developer and Linux Enthusiast 
 ![I am a Web Developer](https://pbs.twimg.com/profile_images/1828065807085215744/Oeiowv0Y_400x400.jpg)
 
-I'm a web developer. My core programming language is JavaScript. And My JavaScript Skills are more strong and flexible with React libaray. I love to work with React mostly.
+I'm a ardent web developer and hardcore linux enthusiast. My core programming language is JavaScript. And My JavaScript web projects are mainly based on React library. I love to work with React.js,Redux.js,Next.js mostly. I have explored deeply in debian, redhat, arch based linux. I am comfortable with any kinds of linux distribution. My favourite linux distros are: mint, ubuntu, kali, mx, fedora, centos, qubes, manjaro, arco, endeavour, garuda etc. 
 
 Skills: REACT / JS / TAILWIND / CSS / HTML
 
-- 🔭 I’m currently working on Front End Development 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently working on React Web Projects
+- 🌱 I’m currently learning JavaScript and React
 - 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with Linux Expert 
-- 💬 Ask me about Linux and Web Development 
-- 📫 How to reach me: Via github, linked in, twitter 
+- 🤔 I’m looking for help with JavaScript Expert
+- 💬 Ask me about Web Development and Linux Experiment
+- 📫 How to reach me: taanveer469@gmail.com
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: i am a linux enthuasist 
 
