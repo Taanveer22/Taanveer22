@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TAANVEER</h1>
-<h3 align="center">A passionate Web Developer and Linux enthusiastic</h3>
+<h3 align="center">A passionate Web Developer and Linux Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taanveer22&label=Profile%20views&color=0e75b6&style=flat" alt="taanveer22" /> </p>
 
