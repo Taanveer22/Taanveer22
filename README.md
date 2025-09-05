@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu Alaikum, I'm MD. TAANVEER ISLAM</h1>
-<h3 align="center">Front End Web Developer and Linux System Administrator</h3>
+<h3 align="center">Web Developer and Linux System Administrator</h3>
 # 💫 About Me:
-🔭 I’m currently working on skillsecureX<br><br>🌱 I’m currently learning MERN stack<br><br>👯 I’m looking to collaborate on Front End Web Development Projects<br><br>🤝 I’m looking for help with MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://github.com/Taanveer22<br><br>💬 Ask me about Web Development and Linux Exploration<br><br>📫 How to reach me taanveer469@gmail.com<br><br>⚡ Fun fact I'm a Linux Enthusiast<br>
+🔭 I’m currently working on skillsecureX<br><br>🌱 I’m currently learning MERN stack<br><br>👯 I’m looking to collaborate on React Web Development Projects<br><br>🤝 I’m looking for help with Next js and TypeScript Development<br><br>👨‍💻 All of my projects are available at https://github.com/Taanveer22<br><br>💬 Ask me about Web Development and Linux Exploration<br><br>📫 How to reach me taanveer469@gmail.com<br><br>⚡ Fun fact I'm a Linux Enthusiast<br>
 
 
 ## 🌐 Socials:
