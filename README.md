@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Alaikum, I am MD. TAANVEER ISLAM</h1>
-<h3 align="center">Ambitious Web Developer & Enthusiast Linux Administrator </h3>
+<h3 align="center">MERN Stack Developer | JavaScript Specialist | Linux System Enthusiast </h3>
 # 💫 About Me: <br><br>
 🔭 I’m currently working on CodeZone71 & Self Upgradation Projects<br><br>🌱 I’m currently learning MERN stack<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>🤝 I’m looking for help with TypeScript and Next JS Projects <br><br>👨‍💻 All of my projects are available at https://github.com/Taanveer22<br><br>💬 Ask me about Web Development and Linux Administration <br><br>📫 How to reach me taanveer469@gmail.com<br><br>⚡ Fun fact I'm a Linux Enthusiast<br>
 
